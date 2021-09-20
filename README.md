@@ -1,4 +1,4 @@
-# AppPeliculas2
+# App de Peliculas
 
 #Nombres Integrantes: Ismael Mejias, Cristobal Poblete
 
